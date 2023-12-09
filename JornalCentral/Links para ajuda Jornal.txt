@@ -1,0 +1,10 @@
+-link session, de lei ele sempre esta no topo.
+https://www.w3schools.com/php/php_sessions.asp
+
+- link para a criacao do caminho do arquivo da imagem
+https://pt.stackoverflow.com/questions/209944/passar-variável-para-outro-arquivo-php
+
+-link para puxar dados de outro php
+https://www.php.net/manual/pt_BR/function.include.php
+
+insert do caminho da imagem dentro do banco
